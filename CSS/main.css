@@ -103,3 +103,8 @@ ul {
   height: 70px;
   width: 70px;
 }
+
+.bckg {
+  background-color: #f2f2f2;
+  height: 500px;
+}
