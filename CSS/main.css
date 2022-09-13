@@ -100,11 +100,20 @@ ul {
 }
 
 .insta {
-  height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
 }
 
 .bckg {
-  background-color: #f2f2f2;
-  height: 500px;
+  background-color: #FF9551;
+  height: 250px;
+
+}
+
+.education {
+  text-decoration: underline;
+}
+
+.namename {
+  text-decoration: underline;
 }
