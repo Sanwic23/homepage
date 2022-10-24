@@ -2,8 +2,9 @@
 
 body {
   min-height: 100vh;
-  margin: 0;
+ 
   background-color: #FF9551;
+  padding: 0%;
 }
 
 /*dotted lines*/
@@ -15,6 +16,7 @@ hr {
   border-color: #5b0000;
   border-width: 5px;
   width: 90%;
+  
 }
 
 /* font colors and sizes*/
@@ -44,6 +46,8 @@ label {
   position: fixed;
  padding: 0%;
   width: 100%;
+  z-index: 5;
+
 
 }
 
@@ -55,7 +59,6 @@ label {
   color: #f2f2f2;
   padding: 20px 20px;
   text-decoration: none;
-
   height: 100%;
 
 }
@@ -82,6 +85,7 @@ label {
 
 .yt {
   width: 100%;
+
 }
 
 .INSTAGRAM {
@@ -138,6 +142,35 @@ label {
 #hobbies {
   background-color: #FF9551;
   color: #5b0000;
+}
+
+
+.container-fluid {
+  margin: 0px;
+  padding: 0px 0px;
+}
+
+.picslide-styling {
+  width: 50%;
+}
+
+.picbackgrounds {
+  background-color: #FF9551;
+  text-align: center;
+  color: #5b0000;
+}
+
+#pickback {
+  padding: 5% 15%;
+
+}
+
+.col-sm-6 {
+  padding: 0px -12;
+}
+
+.carousel-inner {
+  min-height: 650px ;
 }
 
 
