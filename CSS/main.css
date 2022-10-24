@@ -173,7 +173,29 @@ label {
   min-height: 600px ;
 }
 
+#footer {
+  padding: 5% 5%;
+  text-align: center;
+  background-color: #a00000;
+}
 
+.social-icon {
+  margin: 20px 15px;
+  font-size: 40px;
+  color:#ffffff;
+
+}
+
+.social-icon:hover {
+
+  margin: 20px 15px;
+  color:rgb(158, 158, 158) ;
+}
+
+.foot-p {
+  font-size: 30px;
+  color: #ffffff;
+}
 
 
 /*#820000 for navbar
