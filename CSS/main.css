@@ -177,6 +177,7 @@ label {
   padding: 5% 5%;
   text-align: center;
   background-color: #a00000;
+    width: 100%;
 }
 
 .social-icon {
@@ -195,6 +196,7 @@ label {
 .foot-p {
   font-size: 30px;
   color: #ffffff;
+ 
 }
 
 
