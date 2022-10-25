@@ -5,6 +5,7 @@ body {
   padding: 0%;
   font-family: 'PT Serif', serif;
   min-height: 100vh;
+  
 }
 
 /*dotted lines*/
@@ -179,7 +180,11 @@ label {
   text-align: center;
   background-color: #a00000;
   padding: 5% 5%;
-
+  bottom: 0;
+  margin-bottom: 0;
+  position: absolute;
+  height: fit-content;
+  width: 100%;
 
 }
 
