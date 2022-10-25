@@ -1,11 +1,10 @@
-
-
 body {
   min-height: 100vh;
- 
+
   background-color: #FF9551;
   padding: 0%;
   font-family: 'PT Serif', serif;
+  min-height: 100vh;
 }
 
 /*dotted lines*/
@@ -17,7 +16,7 @@ hr {
   border-color: #5b0000;
   border-width: 5px;
   width: 90%;
-  
+
 }
 
 /* font colors and sizes*/
@@ -45,7 +44,7 @@ label {
   overflow: hidden;
   background-color: #820000;
   position: fixed;
- padding: 0%;
+  padding: 0%;
   width: 100%;
   z-index: 5;
 
@@ -126,13 +125,15 @@ label {
 }
 
 
-.dotted {border-style: dotted;}
+.dotted {
+  border-style: dotted;
+}
 
 
 #picslide {
-  background-color:#820000;
+  background-color: #820000;
   color: #ffffff;
-  
+
 }
 
 #education {
@@ -171,38 +172,37 @@ label {
 }
 
 .carousel-inner {
-  min-height: 600px ;
+  min-height: 600px;
 }
 
 #footer {
-  padding: 5% 5%;
   text-align: center;
   background-color: #a00000;
-    width: 100%;
-  
+  padding: 5% 5%;
+
+
 }
 
 .social-icon {
   margin: 20px 15px;
   font-size: 40px;
-  color:#ffffff;
+  color: #ffffff;
 
 }
 
 .social-icon:hover {
 
   margin: 20px 15px;
-  color:rgb(158, 158, 158) ;
+  color: rgb(158, 158, 158);
 }
 
 .foot-p {
   font-size: 30px;
   color: #ffffff;
- 
+
 }
 
 
 /*#820000 for navbar
 #FF9551 for background
 #5b0000 when hover over navbar color*/
-
