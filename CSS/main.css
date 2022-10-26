@@ -239,6 +239,9 @@ border-color: #5b0000;
     font-size: 37px;
   }
   
+  .carousel-inner {
+    min-height: 740px;
+  }
 }
 
 
