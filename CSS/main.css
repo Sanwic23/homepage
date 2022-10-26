@@ -180,12 +180,9 @@ label {
   text-align: center;
   background-color: #a00000;
   padding: 5% 5%;
-  /* bottom: 0; */
-  /* margin-bottom: 0; */
-  /* position: absolute; */
   height: fit-content;
   width: 100%;
-/*  */
+
 }
 
 #footer::after {
@@ -230,6 +227,13 @@ border-color: #5b0000;
   background-color: #e27373;
   width: 20rem;
 }
+.card-footer {
+    background-color:transparent;
+     border-top: 0px;
+}
+
+
+
 
 /*#820000 for navbar
 #FF9551 for background
