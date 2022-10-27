@@ -20,7 +20,7 @@ hr {
 
 }
 
-/* font colors and sizes*/
+/******************* font colors and sizes ******************/
 
 h1 {
   font-size: 50px;
@@ -39,6 +39,49 @@ h3 {
 label {
   color: #5b0000;
 }
+
+
+#education {
+  background-color: #FF9551;
+  color: #5b0000;
+}
+
+#hobbies {
+  background-color: #FF9551;
+  color: #5b0000;
+}
+
+.picbackgrounds {
+  background-color: #FF9551;
+  text-align: center;
+  color: #5b0000;
+}
+
+#pickback {
+  padding: 5% 15%;
+
+}
+
+.picslide-styling {
+  width: 50%;
+}
+
+#picslide {
+  background-color: #820000;
+  color: #ffffff;
+
+}
+
+
+/*pfp as circle*/
+
+
+.round {
+  border-radius: 100%;
+}
+
+/*****************NAVBAR****************/
+
 
 /*nav bar color and size*/
 .navbar {
@@ -65,13 +108,6 @@ label {
 }
 
 
-
-/*pfp as circle*/
-.round {
-  border-radius: 100%;
-}
-
-
 /* nav bar color change when mouse hover*/
 .navbar a:hover {
   background: #5b0000;
@@ -83,6 +119,8 @@ label {
   margin-top: 0px;
 }
 
+
+/*****************PICTURES****************/ 
 
 .yt {
   width: 105%;
@@ -132,21 +170,7 @@ label {
 }
 
 
-#picslide {
-  background-color: #820000;
-  color: #ffffff;
 
-}
-
-#education {
-  background-color: #FF9551;
-  color: #5b0000;
-}
-
-#hobbies {
-  background-color: #FF9551;
-  color: #5b0000;
-}
 
 
 .container-fluid {
@@ -154,20 +178,9 @@ label {
   padding: 0px 0px;
 }
 
-.picslide-styling {
-  width: 50%;
-}
 
-.picbackgrounds {
-  background-color: #FF9551;
-  text-align: center;
-  color: #5b0000;
-}
 
-#pickback {
-  padding: 5% 15%;
 
-}
 
 .col-sm-6 {
   padding: 0px -12;
@@ -185,6 +198,8 @@ label {
   width: 100%;
 
 }
+
+/**************** footer ****************/
 
 #footer::after {
   text-align: center;
