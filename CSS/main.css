@@ -44,6 +44,7 @@ label {
 #education {
   background-color: #FF9551;
   color: #5b0000;
+  text-align: center;
 }
 
 #hobbies {
@@ -120,7 +121,7 @@ label {
 }
 
 
-/*****************PICTURES****************/ 
+/*****************PICTURES****************/
 
 .yt {
   width: 105%;
@@ -171,7 +172,7 @@ label {
 
 
 
-
+/****RANDOM CSS IDDK WHAT TO CLASS IT AS*****/
 
 .container-fluid {
   margin: 0px;
@@ -260,6 +261,14 @@ label {
   }
 }
 
+.carousel-leftalign {
+  text-align: left;
+}
+
+.center {
+  display: block;
+  text-align: -webkit-center;
+}
 
 
 /*#820000 for navbar
